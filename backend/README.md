@@ -61,9 +61,3 @@ The backend is organized into several directories and files:
 
 ## API Endpoints
 The backend exposes several API endpoints for interacting with documents and chunks. Refer to the route files in the `routes` directory for detailed endpoint information.
-
-## Contribution
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
