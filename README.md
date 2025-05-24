@@ -166,18 +166,6 @@ chunk-mate/
 
 ---
 
-## 7. License
-
-MIT License. See the LICENSE file for details.
-
----
-
-## 8. Contributing
-
-Pull requests and issues are welcome!
-
----
-
-## 9. Credits
+## 7. Credits
 
 - Built with [React](https://react.dev/), [Express](https://expressjs.com/), [TypeScript](https://www.typescriptlang.org/), and [PostgreSQL](https://www.postgresql.org/).
