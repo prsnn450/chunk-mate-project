@@ -1,0 +1,36 @@
+# System requirements
+nodejs>=16.0.0
+npm>=7.0.0
+postgresql>=12.0
+
+# Backend npm dependencies
+express
+cors
+multer
+pg
+pg-hstore
+sequelize
+typescript
+ts-node
+ts-node-dev
+jest
+ts-jest
+@types/express
+@types/cors
+@types/multer
+@types/node
+@types/pg
+
+# Frontend npm dependencies
+react
+react-dom
+react-router-dom
+styled-components
+axios
+@types/react
+@types/react-dom
+@types/react-router-dom
+@types/styled-components
+vite
+@vitejs/plugin-react
+typescript
