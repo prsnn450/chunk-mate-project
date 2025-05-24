@@ -53,9 +53,3 @@ frontend
 ## Development
 - The frontend is built using React and Vite, ensuring a fast and efficient development experience.
 - Styled-components are used for styling, allowing for modular and reusable styles.
-
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
